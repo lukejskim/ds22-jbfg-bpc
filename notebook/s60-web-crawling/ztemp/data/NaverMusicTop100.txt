@@ -1,0 +1,100 @@
+  1: 그대라는 시/태연 (TAEYEON)
+  2: 술이 문제야/장혜진
+  3: ICY/ITZY(있지)
+  4: 헤어져줘서 고마워/벤
+  5: 기억해줘요 내 모든 날과 그때를/거미
+  6: 나의 어깨에 기대어요/10cm
+  7: 니 소식/송하예
+  8: 사랑에 연습이 있었다면 (Prod. 2soo)/임재현
+  9: Snapping/청하
+ 10: 작은 것들을 위한 시 (Boy With Luv) (Feat. Halsey)/방탄소년단
+ 11: 내 맘을 볼 수 있나요/헤이즈 (Heize)
+ 12: 오늘도 빛나는 너에게 (To You My Light) (Feat. 이라온)/마크툽(Maktub)
+ 13: 포장마차/황인욱
+ 14: 너에게 못했던 내 마지막 말은/다비치
+ 15: 솔직하게 말해서 나/김나영
+ 16: 비가 내리는 날에는/윤하
+ 17: 안녕/폴킴
+ 18: Another Day/먼데이키즈(Mon..
+ 19: FANCY/TWICE(트와이스)
+ 20: 사계 (Four Seasons)/태연 (TAEYEON)
+ 21: 인사/멜로망스(Melomance)
+ 22: 너를 만나/폴킴
+ 23: 열대야 (Fever)/여자친구(GFRIEND)
+ 24: 달라달라/ITZY(있지)
+ 25: 벌써 12시/청하
+ 26: 모든 날, 모든 순간 (Every day, Every Moment)/폴킴
+ 27: Goodbye/박효신
+ 28: 그 끝에 그대/청하
+ 29: 짐살라빔 (Zimzalabim)/Red Velvet (레드벨벳)
+ 30: 너만 너만 너만/양다일
+ 31: 그때가 좋았어/케이시(Kassy)
+ 32: 주저하는 연인들을 위해/잔나비
+ 33: We don't talk together (Feat. 기리보이) (Prod. SUGA)/헤이즈 (Heize)
+ 34: 여행/볼빨간사춘기
+ 35: 내 목소리 들리니/벤
+ 36: BAND/창모(CHANGM..
+ 37: BIRTHDAY/전소미
+ 38: 사랑이 식었다고 말해도 돼/먼데이키즈(Monday Kiz)
+ 39: 노래방에서/장범준
+ 40: Dance The Night Away/TWICE(트와이스)
+ 41: 비올레타/IZ*ONE(아이즈원)
+ 42: 아퍼 (Feat. Kid Milli, Lil tachi, 김승민, NO:EL, C JAMM)/기리보이
+ 43: 옥탑방 (Rooftop)/엔플라잉(N.Flying)
+ 44: Kill This Love/BLACKPINK
+ 45: Done For Me/펀치 (Punch)
+ 46: 밤편지/아이유(IU)
+ 47: 나만, 봄/볼빨간사춘기
+ 48: 넘쳐흘러/M.C THE MAX
+ 49: 신청곡 (Feat. SUGA of BTS)/이소라
+ 50: 누구 없소 (NO ONE) (Feat. B.I of iKON)/이하이
+ 51: Way Back Home/숀(SHAUN)
+ 52: 봄날/방탄소년단
+ 53: 서울 밤 (Feat. 빈지노)/어반 자카파(Urban Zakapa)
+ 54: YES or YES/TWICE(트와이스)
+ 55: 소우주 (Mikrokosmos)/방탄소년단
+ 56: 음파음파 (Umpah Umpah)/Red Velvet (레드벨벳)
+ 57: 시든 꽃에 물을 주듯/HYNN(박혜원)
+ 58: BUNGEE (Fall in Love)/오마이걸(OH MY GIRL)
+ 59: 지나오다/닐로(Nilo)
+ 60: 그건 아마 우리의 잘못은 아닐 거야/백예린
+ 61: 고백/양다일
+ 62: 비/폴킴
+ 63: 180도/벤
+ 64: 다섯 번째 계절 (SSFWL)/오마이걸(OH MY GIRL)
+ 65: IDOL/방탄소년단
+ 66: 비워 (Beer) (Prod. Way Ched)/창모(CHANGM..
+ 67: 사월이 지나면 우리 헤어져요 (Beautiful goodbye)/첸(CHEN)
+ 68: U GOT IT/갓츄 (GOT U)
+ 69: 방에 모기가 있어 (Do You Think Of Me?)/10cm
+ 70: Uh-Oh/(여자) 아이들
+ 71: 뜨거운 여름밤은 가고 남은 건 볼품없지만/잔나비
+ 72: 열애중/벤
+ 73: 사계 (하루살이)/M.C THE MAX
+ 74: 뭐해 (What are you up to)/강다니엘
+ 75: 뿜뿜/모모랜드(MOMOLAND)
+ 76: 당신과는 천천히/장범준
+ 77: 초록빛/폴킴
+ 78: 고고베베 (gogobebe)/마마무(Mamamoo)
+ 79: 괜찮아도 괜찮아 (That's okay)/디오 (D.O.)
+ 80: AH YEAH (아예)/WINNER
+ 81: 멍청이(twit)/화사(Hwa Sa)
+ 82: 움직여 (MOVE) (Prod. by ZICO)/SIXC (6 crazy)
+ 83: 어떤 별보다/Red Velvet (레드벨벳)
+ 84: 가라사대/비와이(BewhY)
+ 85: 선물/멜로망스(Melomance)
+ 86: 신용재/하은(라코스테남)
+ 87: Blue (Feat. Crush, SOLE)/다이나믹 듀오
+ 88: Say Goodbye/송하예
+ 89: 우주선/정승환
+ 90: 이뻐이뻐 (Pretty girl)/크레파스
+ 91: 하루도 그대를 사랑하지 않은 적이 없었다/임창정
+ 92: 별 보러 갈래?/볼빨간사춘기
+ 93: 흔한 이별/허각
+ 94: 내 안부/이우
+ 95: 뚜두뚜두 (DDU-DU DDU-DU)/BLACKPINK
+ 96: 파티피플 (Feat. 염따, Uneducated Kid)/기리보이
+ 97: DNA/방탄소년단
+ 98: 진심이 담긴 노래 (True Song)/케이시(Kassy)
+ 99: 그날처럼/장덕철
+100: 삐삐/아이유(IU)
