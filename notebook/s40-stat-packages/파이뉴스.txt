@@ -1,0 +1,49 @@
+
+PyScript Demo / Tutorial | End-to-end PyScript Tutorial #1
+https://www.youtube.com/watch?v=Qo8dXyKXyME
+
+Python + pyscript + WebAssembly: Python Web Apps, Running Locally with pyscript
+https://www.youtube.com/watch?v=lC2jUeDKv-s
+
+Run Python in HTML/Browser - Pyscript is Ridiculous
+https://www.youtube.com/watch?v=zzmklue6jcs
+
+자바스크립트 종말각?! HTML에서 파이썬 실행하는 PyScript 등장!
+https://www.youtube.com/watch?v=3DuyJf_XPtM
+
+Pyscript|Run Python In Your HTML
+https://www.youtube.com/watch?v=EZL-jobhKfo
+
+[Python] numpy 배열 외부 파일로 저장하기(save), 외부 파일을 배열로 불러오기(load)
+https://rfriend.tistory.com/358
+
+
+np.save() : 
+1개의 배열을 NumPy format의 바이너리 파일로 저장하기 
+
+(Save a single array to a binary file in NumPy format)np.load() : 
+np.save()로 저장된 *.npy 파일을 배열로 불러오기 
+
+(Open a *.npy file and load it as an array)np.savez() : 
+여러개의 배열을 1개의 압축되지 않은 *.npz 포맷 파일로 저장하기 
+
+(Save several arrays into a single file in uncompressed .npz format)np.load() : 
+np.savez()로 저장된 *.npz 파일을 배열로 불러오기 
+
+(Open a *.npz file and load it as an array)np.savez_compressed() : 
+여러개의 배열을 1개의 압축된 *.npz 포맷 파일로 저장하기 
+
+(Save several arrays into a single file in compressed .npz format)np.load() : 
+np.save_compressed()로 저장된 압축된 *.npz 파일을 배열러 불러오기 
+
+(Open a compressed *.npz file and load it as an array)np.savetext() : 
+여러개의 배열을 텍스트 파일로 저장하기 
+
+(Save several array to a file as plain text)np.loadtext() : 
+텍스트 파일을 배열로 불러오기 
+
+(Open a text file and load it as an array)
+
+
+
+
